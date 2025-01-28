@@ -42,10 +42,10 @@ class TestUrbanRoutes:
         pass
 
     def test_order_2_ice_creams(self):
+        # Add in S8
         # Loop to add 2 ice creams
         for _ in range(2):
-            # Add in S8
-            pass
+            # Adding loop to iterate twice for order_2_ice_cream
         print("Function created for order 2 ice creams")
         pass
 
