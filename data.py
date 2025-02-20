@@ -1,5 +1,5 @@
 # URL for the urban routes server
-URBAN_ROUTES_URL = ''
+URBAN_ROUTES_URL = 'https://cnt-d715d753-3e09-465d-8b1f-f97a2678db99.containerhub.tripleten-services.com'
 
 # Test data
 ADDRESS_FROM = 'East 2nd Street, 601'
